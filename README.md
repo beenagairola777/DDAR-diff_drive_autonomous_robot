@@ -8,6 +8,7 @@ A ROS2 Humble + Gazebo + RViz2 simulation of a differential drive robot.
 - Odometry publishing
 - Full TF tree: odom → base_link → wheels
 - Synchronized Gazebo and RViz2 visualization
+- LiDAR sensor with 360 degree scanning and object detection
 
 ## Requirements
 - ROS2 Humble
