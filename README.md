@@ -28,7 +28,7 @@ ros2 run gazebo_ros spawn_entity.py -file urdf/robot.urdf -entity diff_drive_rob
 
 Terminal 3 - Start RViz:
 ```bash
-ros2 launch DDAR robot.launch.py
+ros2 launch DDAR display.launch.py
 ```
 
 Terminal 4 - Teleop:
